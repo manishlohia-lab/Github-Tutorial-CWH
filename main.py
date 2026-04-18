@@ -2,5 +2,5 @@ import os
 
 os.listdir()
 os.access()
-os.chdir
-# Using os module to get directories 
+os.O_SEQUENTIAL
+# Making this file even better yaayyy!!
