@@ -2,4 +2,5 @@ import os
 
 os.listdir()
 os.access()
-# blaah blaah blaah
+os.O_SEQUENTIAL
+# Making this file even better yaayyy!!
