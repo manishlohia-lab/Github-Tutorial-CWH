@@ -2,4 +2,5 @@ import os
 
 os.listdir()
 os.access()
-# blaah blaah blaah
+os.chdir
+# Using os module to get directories 
